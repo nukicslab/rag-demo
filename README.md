@@ -6,7 +6,7 @@ Given a set of your own documents, it lets you ask questions and compare two ans
 
 - **Pure LLM** — what the model knows from training alone
 - **LLM + RAG** — the model's answer grounded in your documents
-
+![RAG Architecture](./ragarch.jpg)
 ---
 
 ## How It Works
@@ -62,7 +62,7 @@ Your documents (.txt / .md / .pdf / .docx / .doc)
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/your-username/rag-demo.git
+git clone https://github.com/wuchtw/rag-demo.git
 cd rag-demo
 
 # 2. (Recommended) create a virtual environment
