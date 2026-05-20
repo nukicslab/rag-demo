@@ -62,7 +62,7 @@ Your documents (.txt / .md / .pdf / .docx / .doc)
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/wuchtw/rag-demo.git
+git clone https://github.com/nukicslab/rag-demo.git
 cd rag-demo
 
 # 2. (Recommended) create a virtual environment
